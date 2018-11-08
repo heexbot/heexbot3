@@ -70,4 +70,4 @@ message.channel.send(args.join("  "))
 
   }
 
-client.login("NDQ1OTc3MzgyODAxODk5NTIx.DsX90w.qnXErWheW_0yzF2J1HWopU06Irc");  // تكون البوت
+client.login("Bot_Token");  // تكون البوت
