@@ -32,8 +32,7 @@ client.on('ready', () => {
   }
 });   
 
-const Discord = require("discord.js");
-const client = new Discord.Client();
+
 var prefix = "d";
 var adminprefix = "k";
 const developers = ["323888904602124299"]
